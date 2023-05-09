@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello everyone👋, my name is Maksim, I was born and live in Astana, Kazakhstan. I'm an aspiring web developer who aspires to be a full stack 😄 
 
 <!--
 **OverlordCrowley/OverlordCrowley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

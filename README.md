@@ -1,4 +1,4 @@
-### Hello everyone👋, my name is Maksim, I was born and live in Astana, Kazakhstan. I became interested in programming at school in computer science, studied and tried a lot of things a little bit, starting with a calculator in python, and ending with a server api on node js. I'm an aspiring web developer who aspires to be a full stack 😄 
+### Hello everyone👋, my name is Maksim, and I was born and raised in Astana, Kazakhstan. I became interested in programming during my school years, studying and trying out a variety of things, from creating a calculator in Python to developing a server API using Node.js. 💻 Now, I'm an aspiring web developer who's passionate about becoming a full-stack developer. 😄 My ultimate goal is to build amazing web applications that people can use and enjoy. 🚀
 
 <!--
 **OverlordCrowley/OverlordCrowley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

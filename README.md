@@ -1,8 +1,8 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-<div >
+<div>
 <p>My name is Maksim, and I was born and raised in Astana, Kazakhstan. I became interested in programming during my school years, studying and trying out a variety of things, from creating a calculator in Python to developing a server API using Node.js. 💻 Now, I'm an aspiring web developer who's passionate about becoming a full-stack developer. 😄 My ultimate goal is to build amazing web applications that people can use and enjoy. 🚀</p>&nbsp;
-<img  align="right" src="https://media.tenor.com/NZqiUoAnAFsAAAAC/cat-computer.gif"/>
+<img   src="https://media.tenor.com/NZqiUoAnAFsAAAAC/cat-computer.gif"  height="200" width="200"/>
 </div>
 
 ---

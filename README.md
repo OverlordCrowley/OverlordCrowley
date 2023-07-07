@@ -44,22 +44,6 @@
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kramzos)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=overlordcrowley&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```text
-JSON         3 hrs 54 mins   ███████████▓░░░░░░░░░░░░░   46.40 %
-TypeScript   2 hrs 47 mins   ████████▒░░░░░░░░░░░░░░░░   33.17 %
-JavaScript   1 hr 15 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
-HTML         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-```
-
-<!--END_SECTION:waka-->
-
 
 ---
 
